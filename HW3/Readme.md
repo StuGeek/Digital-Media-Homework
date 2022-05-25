@@ -40,10 +40,6 @@ OpenCV、dlib、PyQt5、numpy、PIL等库
 
 ![test2](./pictures/test2.png)
 
-**测试结果3：**
-
-![test3](./pictures/test3.png)
-
 ### 关键程序和算法
 
 1. 获取图像中的面部特征点：
